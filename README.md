@@ -18,26 +18,6 @@ Esta aplicación proporciona una solución integral para la gestión de recursos
 
 ---
 
-# ✨ Sistema de Gestión de Horarios y Fichaje
-
-**Sistema web completo para la gestión de horarios, fichajes de empleados y administración de ausencias, desarrollado con tecnologías modernas para empresas que buscan optimizar sus procesos de control horario.**
-
----
-
-## 💻 Descripción General
-
-Esta aplicación proporciona una solución integral para la gestión de recursos humanos mediante:
-
-- **Sistema de fichaje digital** en tiempo real  
-- **Gestión completa de horarios** con validaciones inteligentes  
-- **Control de ausencias y permisos** con flujo de aprobación  
-- **Roles diferenciados** (administrador/empleado) con permisos específicos  
-- **Estadísticas y seguimiento** de horas trabajadas
-
-**Ideal para empresas que necesitan automatizar sus procesos de control horario y gestión de personal.**
-
----
-
 ## 🚀 Características Principales
 
 ### 🔐 Autenticación y Seguridad
