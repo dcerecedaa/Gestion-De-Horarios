@@ -222,7 +222,7 @@ proyecto/
 | Categoría | Tecnologías |
 |-----------|-------------|
 | Backend   | Node.js, Express.js |
-| Frontend  | HTML5, CSS3, JavaScript (Vanilla) |
+| Frontend  | HTML5, CSS3, JavaScript |
 | Base de Datos | MySQL |
 | Estilos   | Bootstrap 5, CSS personalizado |
 | Autenticación | bcrypt, localStorage |
