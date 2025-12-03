@@ -18,7 +18,6 @@ Esta aplicación proporciona una solución integral para la gestión de recursos
 
 ---
 
-*** Begin Patch
 # ✨ Sistema de Gestión de Horarios y Fichaje
 
 **Sistema web completo para la gestión de horarios, fichajes de empleados y administración de ausencias, desarrollado con tecnologías modernas para empresas que buscan optimizar sus procesos de control horario.**
@@ -311,23 +310,5 @@ proyecto/
 Desarrollado por **David Cereceda**  
 🎓 Desarrollador Fullstack | Apasionado por crear soluciones eficientes
 
-- 📧 Contacto: `tu-email@dominio.com`  
-- 🔗 LinkedIn: `tu-perfil-linkedin`  
-- 🐙 GitHub: `tu-usuario-github`
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la **Licencia MIT**. Ver el archivo `LICENSE` para más detalles.
-
----
-
-## 🙏 Agradecimientos
-
-- Equipo de **Bootstrap** por el framework CSS.  
-- Comunidad de **Node.js** por las herramientas y librerías.  
-- Todos los contribuyentes que han ayudado a mejorar el proyecto.  
-- Usuarios finales por sus valiosos feedbacks y sugerencias.
-
-*** End Patch
+- 📧 Contacto: `david.cereceda.perez@gmail.com`  
+- 🔗 LinkedIn: `https://www.linkedin.com/in/david-cereceda-perez-3ba0962b6/`  
